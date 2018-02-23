@@ -1,3 +1,4 @@
+#!/bin/bash
 # This script is used to change all of the user accounts (minus the one calling this
 # script on this computer and root) to the value $password with the user name capitalized and
 # appended to the end
